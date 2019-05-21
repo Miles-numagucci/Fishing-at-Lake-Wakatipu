@@ -1,0 +1,34 @@
+/* 
+dark primary color:#C2185B
+primary color:#E91E63
+accent color:#FF4081
+text: #FFFFFF
+hover text: #FFFFFF
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+  background-color:#C2185B;
+  color:#FFFFFF; 
+  padding: 40px 150px;   
+}
+nav {
+   background-color:#E91E63;
+   padding: 40px 150px;          
+}
+nav ul {
+    list-style: none;   
+}
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav a:hover {
+    color:#FF4081;
+}
+section {
+    margin-left: 150px;
+    
+}
